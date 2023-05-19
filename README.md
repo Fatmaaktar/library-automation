@@ -5,7 +5,7 @@ program kullanıcısı tarafından kütüphanede
 bulunan kitapların veritabanına 
 girilmesi ve isteyen uyelere bu kitapları
 belirli süreler halinde emanet verilmesi,
-verilen kitapkarın takibinin yapılmasıdır.
+verilen kitapların takibinin yapılmasıdır.
 
 
 # library automation project
